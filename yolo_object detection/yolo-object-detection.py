@@ -5,7 +5,7 @@ Created on Tue Jun  4 19:34:56 2019
 @author: DELL
 """
 #############
-## PRIZMATICS INTERNSHIP ASSIGNMENT
+## YOLO object detection
 ############# 
 import cv2
 import numpy as np
